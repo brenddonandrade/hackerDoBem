@@ -1,0 +1,69 @@
+Aula 1 - O que e hacker e seus tipos
+
+		Definicao de hacker
+			Hacker é um indivíduo que tem grande habilidade e conhecimento em computacao e tecnologia. Este usa essas habilidades para encontrar solucoes craitivas e inovadoras para  problemas relacionados a essas areas
+
+
+		Hacking
+			"Hacking" também pode ser definido como ato de comprometer o dispositivo e redes digitais por meio de acesso nao autorizado a uma conta ou sistema de computador.
+	
+		Origim do termo hacker
+			A palavra 'hacker' surgiu nos anos 70, quando programadores comecaram a cirar softwares e sistemas mais complexos.
+
+			Com o passar do tempo o termo ficou associado a atividades criminosas e ilegais.
+
+		Diferenca entre hacker e cracker
+			A diferenca é sutil mas importante
+
+			Cracker usa suas habilidades para o mal e hacker para o bem.
+
+		
+		Ética
+			Ramo da filosofia que lida com questoes de moralidade, ou o que é considerado comportamento certo e errado.
+		
+			O comportamento ético é o comportamento que consiste em princípios e valores. Envolve tomar decisoes e agir de acordo com princípio morais como honestidade, integridade, justica, respeito  pelos direitos humanos e preocupacao com o bem-estar dos outros.
+
+			É fazer o que é certo, mesmo quando é difícil ou incoveniente.
+
+
+	Quais sao os tipos de hackers
+
+		Hats - chapéus
+			Podemos classificar em tres categorias de tipos de hackers:
+				- black hat
+				- grey hat
+				- white hat
+
+		White hat
+			Conhecido como hacker ético.
+
+			Sao especialistas em seguranca da computacao que atuam fazendo testes de invasao e outrasmetodologias para garantir que os sistemas de informacao de uma empresa seja seguros. 
+
+			Tem autorizacao para acessar sistemas e procurar por vulnerabilidade que possam ser corrigidas.
+
+			Sao os mocinhos da ciberseguranca e sao contratados por empresas e instituicoes para melhorar sua protecao.
+
+
+		Exemplos de ataques feitos por White hat hackers
+			- A descoberta do bug Headtbleed no OpenSSL em 2014, que permitiu que hackers roubassem informacoes sensiveis de sites que usavam o software.
+
+			- A descoberta de vulnerabilidades Meltdown e Spectre nos processadores de computador em 2018.			
+
+
+		Grey hat 
+			Uma mistura dos dois tipos (white e black).
+
+			As vezes agem legalmente e as vezes nao.
+
+			Nao possuem autorizacao para acessar os sistemas mas também nao tem intencoes maliciosas.
+
+			Podem invadir por curuisidade, desafio ou para alertar sobre falhas de seguranca.
+
+
+		Exemplos de ataques feitos por Grey hat hackers
+			- Em 2018, um hacker neutro invadiu uma maquina de votacao em uma conferencia de hacking para demonstrar como era facil faze-lo.
+
+
+		Balck hat hackers
+			
+
