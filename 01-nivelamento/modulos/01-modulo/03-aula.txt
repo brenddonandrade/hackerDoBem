@@ -1,0 +1,23 @@
+Aula 3 - Profissões em cibersegurança
+
+	Red Team
+		Red Team(equipe vermelha) - que é
+			Atuam com simulações de ataques cibernéticos contra empresas e organizações, com o objetivo de identificar e eliminar vulnerabilidades nos sistemas de defesa. Essee profissional precisa ter um alto conhecimento sobre as principais ameaças e técnicas de invasão existentes e atuais, e capaz de usar ferramentas e metodologias de hackers éticos.
+	
+		O princípal objetivod de um profissional Red Team é melhorar a segurança cibernética das empreas, demonstrando os impactos de ataques bem-sucedidos e o que funciona para os defeonsores( ou seja, a equipe azul- blue team) em um ambiente operacional.
+
+
+	Red Team - atividades
+		Pode ser divido em quatro etapas principais: planejamento, execução, análise e recomentação.
+			
+		Planejamento: define o escopo, objetivo as regras e  os limites do teste de ciberataque. Eles devem levar em conta as características da empresa, os sistemas envolvidos, os riscos associados e as expectativas dos contratantes.
+		O planejamento também envolve a coleta de informações sobre o alvo, como endereço de IP, domínios, portas abertas, serviços rodando, vulnerabilidades conhecidas, entre outros. Esses dados são usados para mapear a superfície de ataque e escolher as melhores estratégias para explorá-las.
+
+		Execução: coloca em prática as ações planejadas para tentar invadir os sistemas da empresa. Eles podem usar diferentes métodos de ataque  como phishing, brute force, SQL injection, cross-site scripting, entre outros.
+		O red  team tamém pode usar técnicas de engenharia social para enganar ou persuadir os funcionários da empresa a fornecerem informações de acessos privilegiados. Por exemplo, eles podem se passar por clientes, fornecedores ou colegas de trabalho para enviar emails maliciosos ou fazer ligações falsas.
+		O red team deve documentar todas as suas atividades durante a execução do teste, registrando as evidências das vulnerabilidades encontradas, os impactos causados e as dificuldades.
+
+		Análise: analisa os resultados obtidos durante a execução do teste. Eles devem verificar se conseguiram atingir os objetivos definidos no planejamento, quais foram as falhas mais críticas e frequentes no sistemas de defesa da empresa, e quais foram as lições aprendidas com a experiência.
+		A análise também envolve a classificação das vulnerabilidades encontradas de acordo com o seu nível de gravidade, probablidade e urgência. Assim, eles podem priorizar as correções mais importantes e efetivas.
+		
+		
